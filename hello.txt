@@ -1,2 +1,3 @@
 
 write hello world
+write 你好 世界
